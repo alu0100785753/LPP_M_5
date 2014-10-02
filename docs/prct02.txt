@@ -1,3 +1,8 @@
 Trabajo en equipo con git
 
+<<<<<<< HEAD
 La diferencia entre compilar e interpretar es que cada vez que se compila se crea un ejecutable y cuando se interpreta no.
+=======
+Que hacen lo mismo mediante comandos diferentes, usando el comando "puts" en el helloWorld.rb y el "echo" en el helloWorld.sh.
+El significado de la primera linea del fichero helloWorld.sh es indicar que es un script en bash, indica el comienzo del script.
+>>>>>>> documentacion
