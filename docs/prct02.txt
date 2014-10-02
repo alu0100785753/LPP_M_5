@@ -1,1 +1,3 @@
 Trabajo en equipo con git
+
+La diferencia entre compilar e interpretar es que cada vez que se compila se crea un ejecutable y cuando se interpreta no.
